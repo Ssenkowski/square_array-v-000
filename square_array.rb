@@ -3,6 +3,6 @@ def square_array(array)
     i = numbers ** 2
   my_array = []
   my_array.push("i")
+  square_array(my_array)
 end
-square_array(my_array)
 end
