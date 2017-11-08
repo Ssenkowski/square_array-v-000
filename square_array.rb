@@ -5,4 +5,3 @@ def square_array(array)
   my_array.push("i")
 end
 end
-square_array("#{my_array}")
